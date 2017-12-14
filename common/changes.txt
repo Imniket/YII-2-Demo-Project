@@ -1,0 +1,7 @@
+1. password hash key in db.
+2. seelected tab in admin
+3. slider and text dynamic managible by admin
+4.projects and about as managible by admin
+5.roject detail display in saperate landing page
+5. prepop city base on state.
+6. product view and cancel.
